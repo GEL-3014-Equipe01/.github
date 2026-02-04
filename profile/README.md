@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/SamLol12/GEL-3014">
-    <img src="Documentation/Logo/logo-ulaval.webp" alt="Université Laval" width="300">
+  <a href="https://github.com/GEL-3014-Equipe01">
+    <img src="profile/logo-ulaval.webp" alt="Université Laval" width="300">
   </a>
 </p>
 
