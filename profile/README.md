@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/GEL-3014-Equipe01">
-    <img src="profile/logo-ulaval.webp" alt="Université Laval" width="300">
-  </a>
-</p>
-
 <h1 align="center">Segment Grue — Ville Portuaire Intelligente 2026 — Équipe #1</h1>
 
 <p align="center">
