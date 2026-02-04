@@ -73,7 +73,7 @@ Sous-systèmes principaux :
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/SamLol12/GEL-3014-Equipe01.git
+   git clone https://github.com/GEL-3014-Equipe01/REPO.git
    ```
 2. Configurer l’environnement de développement correspondant au sous-système ciblé
 3. Compiler et téléverser le code sur la carte STM32 ou lancer l’application Station PC
